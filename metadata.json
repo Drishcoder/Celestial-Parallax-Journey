@@ -1,6 +1,4 @@
 {
   "name": "Celestial Parallax Journey",
-  "description": "An interactive multi-layered parallax scrolling experience featuring a 2.5D holographic hero, section-based color morphing, Web Audio synthesis, and smooth animations.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "description": "An interactive multi-layered parallax scrolling experience featuring smooth animations, ambient synthesis, custom cursor tracking, and cinematic visual effects."
 }
